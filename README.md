@@ -7,6 +7,6 @@ You're more than free to use this codebase for your own projects, be it forks or
 **THIS IS TARGETED TOWARDS GAMEMAKER 8.1, I WILL NEVER IMPLEMENT GAMEMAKER: STUDIO SUPPORT**
 
 Documentation coming soon (maybe).<br/>
-When submitting an Issue regarding a bug or glitch, be sure to mention what OS and compatibility layers (if you're using any) you're running the project on.
+When submitting an Issue regarding a bug or glitch, be sure to mention what OS and compatibility layers (if you're using any) you're running the project on. Otherwise your Issue will be closed.
 
 Not affiliated with or endorsed by [Dennaton Games](https://www.dennaton.com/) or [Devolver Digital](https://www.devolverdigital.com/).
