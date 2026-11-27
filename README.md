@@ -6,6 +6,7 @@ Not to be confused with [Pi0h1's repository](https://github.com/Pi0h1/HotlineMia
 You're more than free to use this codebase for your own projects, be it forks or standalone projects as long as they stay non-profit. It should work* with GameMaker 8.1, but I heavily recommend using [Instance](https://github.com/groverburger/instance) instead since it's built with pure Rust and uses APIs that play better with modern Windows or Linux PCs.<br/>
 
 Documentation coming soon (maybe).<br/>
-When submitting an Issue regarding a bug or glitch, be sure to mention what OS and compatibility layers (if you're using any) you're running the project on. Otherwise your Issue will be closed.
+When submitting an Issue regarding a bug or glitch, be sure to mention what OS and compatibility layers (if you're using any) you're running the project on. Otherwise your Issue will be closed.<br/>
+Do keep in mind that this codebase will be targeted towards Instance for obvious reasons. Both because GameMaker 8.1 is really janky and outdated, and because running GameMaker 8.1 on Linux is a pain.
 
 Not affiliated with or endorsed by [Dennaton Games](https://www.dennaton.com/) or [Devolver Digital](https://www.devolverdigital.com/).
