@@ -7,6 +7,7 @@ You're more than free to use this codebase for your own projects, be it forks or
 
 Documentation coming soon (maybe).<br/>
 When submitting an Issue regarding a bug or glitch, be sure to mention what OS and compatibility layers (if you're using any) you're running the project on. Otherwise your Issue will be closed.<br/>
-Do keep in mind that this codebase will be targeted towards GameMaker 8.1 for obvious reasons.
+Do keep in mind that this codebase will be targeted towards GameMaker 8.1 for obvious reasons.<br/>
+Make sure you have all fonts in media/fonts/hlm1 installed otherwise all fonts will be replaced by Arial.
 
 Not affiliated with or endorsed by [Dennaton Games](https://www.dennaton.com/) or [Devolver Digital](https://www.devolverdigital.com/).
